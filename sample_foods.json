@@ -1,0 +1,535 @@
+{
+    "foods": [
+      {
+        "id": "food-1",
+        "name": "Spaghetti Carbonara",
+        "cuisine": {
+          "id": "cuisine-1",
+          "name": "Italian"
+        },
+        "recipe": "Fry chopped bacon or pancetta in a pan until crispy. Remove bacon and set aside. Whisk together eggs, Parmesan cheese, and black pepper in a bowl. Cook spaghetti according to package directions. While the pasta cooks, whisk some of the hot pasta water into the egg mixture to temper it. Drain the pasta, reserving some pasta water. Return pasta to the pot and toss with the egg mixture, reserved pasta water, and cooked bacon. Garnish with additional Parmesan cheese and black pepper, if desired.",
+        "ingredient": [
+          {
+            "id": "ingredient-1",
+            "name": "Spaghetti"
+          },
+          {
+            "id": "ingredient-2",
+            "name": "Eggs"
+          },
+          {
+            "id": "ingredient-3",
+            "name": "Parmesan Cheese"
+          },
+          {
+            "id": "ingredient-4",
+            "name": "Black Pepper"
+          },
+          {
+            "id": "ingredient-5",
+            "name": "Bacon or Pancetta"
+          }
+        ]
+      },
+      {
+        "id": "food-2",
+        "name": "Pad Thai",
+        "cuisine": {
+          "id": "cuisine-2",
+          "name": "Asian"
+        },
+        "recipe": "Soak dried rice noodles in warm water for 15 minutes. Scramble eggs with a splash of fish sauce in a pan. Set aside. Heat oil in a pan and stir-fry chopped tofu or chicken. Add vegetables like bean sprouts, scallions, and chopped peanuts. Push ingredients to the side of the pan and pour a beaten egg mixture. Scramble the eggs until cooked through. Add the soaked noodles and cooked protein/vegetables back to the pan. Toss with tamarind sauce, fish sauce, and palm sugar (or brown sugar) until well combined. Garnish with lime wedges, chopped cilantro, and additional crushed peanuts.",
+        "ingredient": [
+          {
+            "id": "ingredient-6",
+            "name": "Rice Noodles"
+          },
+          {
+            "id": "ingredient-7",
+            "name": "Eggs"
+          },
+          {
+            "id": "ingredient-8",
+            "name": "Tofu or Chicken"
+          },
+          {
+            "id": "ingredient-9",
+            "name": "Bean Sprouts"
+          },
+          {
+            "id": "ingredient-10",
+            "name": "Scallions"
+          },
+          {
+            "id": "ingredient-11",
+            "name": "Peanuts"
+          },
+          {
+            "id": "ingredient-12",
+            "name": "Tamarind Sauce"
+          },
+          {
+            "id": "ingredient-13",
+            "name": "Fish Sauce"
+          },
+          {
+            "id": "ingredient-14",
+            "name": "Palm Sugar (or Brown Sugar)"
+          },
+          {
+            "id": "ingredient-15",
+            "name": "Lime"
+          },
+          {
+            "id": "ingredient-16",
+            "name": "Cilantro"
+          }
+        ]
+      },
+      {
+        "id": "food-3",
+        "name": "Chelo Kebab",
+        "cuisine": {
+          "id": "cuisine-3",
+          "name": "Persian"
+        },
+        "recipe": "Cook basmati rice according to package directions. In a separate pan, marinate ground lamb with chopped onion, saffron (dissolved in a little water), turmeric, salt, and pepper. Skewer the marinated lamb and grill or pan-fry until cooked through. To assemble the dish, place a layer of saffron rice on a plate, top with grilled kebabs, and add a pat of butter or drizzle of olive oil. Garnish with chopped fresh herbs like parsley or mint.",
+        "ingredient": [
+          {
+            "id": "ingredient-17",
+            "name": "Basmati Rice"
+          },
+          {
+            "id": "ingredient-18",
+            "name": "Ground Lamb"
+          },
+            {
+                "id": "ingredient-19",
+                "name": "Onion"
+              },
+              {
+                "id": "ingredient-20",
+                "name": "Saffron"
+              },
+              {
+                "id": "ingredient-21",
+                "name": "Turmeric"
+              },
+              {
+                "id": "ingredient-22",
+                "name": "Salt"
+              },
+              {
+                "id": "ingredient-23",
+                "name": "Pepper"
+              },
+              {
+                "id": "ingredient-24",
+                "name": "Butter (or Olive Oil)"
+              },
+              {
+                "id": "ingredient-25",
+                "name": "Fresh Herbs (Parsley or Mint)"
+              }
+            ]
+          },
+          {
+            "id": "food-4",
+            "name": "Pizza Margherita",
+            "cuisine": {
+              "id": "cuisine-1",
+              "name": "Italian"
+            },
+            "recipe": "Preheat oven to high heat (around 450°F). Prepare pizza dough by stretching it into a round shape. Spread tomato sauce on the dough, leaving a small border around the edge. Top with mozzarella cheese. Bake for 10-15 minutes, or until the crust is golden brown and the cheese is melted and bubbly. Garnish with fresh basil leaves after taking it out of the oven.",
+            "ingredient": [
+              {
+                "id": "ingredient-26",
+                "name": "Pizza Dough"
+              },
+              {
+                "id": "ingredient-27",
+                "name": "Tomato Sauce"
+              },
+              {
+                "id": "ingredient-28",
+                "name": "Mozzarella Cheese"
+              },
+              {
+                "id": "ingredient-29",
+                "name": "Basil"
+              }
+            ]
+          },
+          {
+            "id": "food-5",
+            "name": "Butter Chicken",
+            "cuisine": {
+              "id": "cuisine-4",
+              "name": "Indian"
+            },
+            "recipe": "Marinate chicken breast pieces in yogurt, lemon juice, ginger-garlic paste, garam masala, and other spices. Cook chopped onions in butter or ghee until softened. Add tomato puree and cook until the oil separates. Add marinated chicken and cook until browned. Pour in coconut milk or heavy cream and simmer until the sauce thickens. Season with salt and garam masala to taste. Garnish with chopped fresh cilantro.",
+            "ingredient": [
+              {
+                "id": "ingredient-30",
+                "name": "Chicken Breast"
+              },
+              {
+                "id": "ingredient-31",
+                "name": "Yogurt"
+              },
+              {
+                "id": "ingredient-32",
+                "name": "Lemon Juice"
+              },
+              {
+                "id": "ingredient-33",
+                "name": "Ginger-Garlic Paste"
+              },
+              {
+                "id": "ingredient-34",
+                "name": "Garam Masala"
+              },
+              {
+                "id": "ingredient-35",
+                "name": "Onions"
+              },
+              {
+                "id": "ingredient-36",
+                "name": "Butter or Ghee"
+              },
+              {
+                "id": "ingredient-37",
+                "name": "Tomato Puree"
+              },
+              {
+                "id": "ingredient-38",
+                "name": "Coconut Milk (or Heavy Cream)"                
+              },
+              {
+                "id": "ingredient-39",
+                "name": "Salt"
+              },
+              {
+                "id": "ingredient-40",
+                "name": "Cilantro"
+              }
+            ]
+          },
+          {
+            "id": "food-6",
+            "name": "Hummus",
+            "cuisine": {
+              "id": "cuisine-5",
+              "name": "Middle Eastern"
+            },
+            "recipe": "Soak dried chickpeas overnight or for at least 8 hours. Drain and cook chickpeas in water until tender. Blend cooked chickpeas with tahini, lemon juice, olive oil, garlic, and salt until smooth and creamy. Add a little water if needed to achieve desired consistency. Garnish with paprika, a drizzle of olive oil, and chopped fresh parsley.",
+            "ingredient": [
+              {
+                "id": "ingredient-41",
+                "name": "Chickpeas"
+              },
+              {
+                "id": "ingredient-42",
+                "name": "Tahini"
+              },
+              {
+                "id": "ingredient-43",
+                "name": "Lemon Juice"
+              },
+              {
+                "id": "ingredient-44",
+                "name": "Olive Oil"
+              },
+              {
+                "id": "ingredient-45",
+                "name": "Garlic"
+              },
+              {
+                "id": "ingredient-46",
+                "name": "Salt"
+              },
+              {
+                "id": "ingredient-47",
+                "name": "Paprika",
+                "desc": "for garnish"
+              },
+              {
+                "id": "ingredient-48",
+                "name": "Parsley",
+                "desc": "for garnish"
+              }
+            ]
+          },
+          {
+            "id": "food-7",
+            "name": "Lamb Shanks with Mint Sauce",
+            "cuisine": {
+              "id": "cuisine-6",
+              "name": "Australian"
+            },
+            "recipe": "Brown lamb shanks in a pan with olive oil. Transfer to a slow cooker or Dutch oven. Add chopped vegetables like carrots, onions, and celery. Pour in red wine or beef broth and add chopped rosemary and thyme. Cook on low for several hours, or until the lamb shanks are tender and falling off the bone. Meanwhile, prepare mint sauce by blending mint leaves with lemon juice, sugar, and a touch of salt. Serve the lamb shanks with mashed potatoes or roasted vegetables, spooning the mint sauce on top.",
+            "ingredient": [
+              {
+                "id": "ingredient-49",
+                "name": "Lamb Shanks"
+              },
+              {
+                "id": "ingredient-50",
+                "name": "Olive Oil"
+              },
+              {
+                "id": "ingredient-51",
+                "name": "Carrots"
+              },
+              {
+                "id": "ingredient-52",
+                "name": "Onions"
+              },
+              {
+                "id": "ingredient-53",
+                "name": "Celery"
+              },
+              {
+                "id": "ingredient-54",
+                "name": "Red Wine (or Beef Broth)"
+              },
+              {
+                "id": "ingredient-55",
+                "name": "Rosemary"
+              },
+              {
+                "id": "ingredient-56",
+                "name": "Thyme"
+              },
+              {
+                "id": "ingredient-57",
+                "name": "Mint Leaves",
+                "desc": "for mint sauce"
+              },
+              {
+                "id": "ingredient-58",
+                "name": "Lemon Juice",
+                "desc": "for mint sauce"
+              },
+              {
+                "id": "ingredient-59",
+                "name": "Sugar",
+                "desc": "for mint sauce"
+              },
+              {
+                "id": "ingredient-60",
+                "name": "Salt",
+                "desc": "for mint sauce"
+              },
+              {
+                "id": "ingredient-61",
+                "name": "Mashed Potatoes (or Roasted Vegetables)",
+                "desc": "for serving"
+              }
+            ]
+          },
+          {
+            "id": "food-8",
+            "name": "Saag Paneer",
+            "cuisine": {
+              "id": "cuisine-4",
+              "name": "Indian"
+            },
+            "recipe": "Sauté chopped onions, ginger, and garlic in butter or ghee until softened. Add chopped spinach or other greens and cook until wilted. Blend the cooked greens with a little water to create a smooth puree. Heat oil in a pan and add cumin seeds, mustard seeds, and curry leaves. When the seeds splutter, add chopped tomatoes and cook until softened. Add the green puree, turmeric, garam masala, and salt. Simmer for a few minutes. Add paneer cubes (cubed Indian cheese) and cook until heated through. Garnish with fresh cream or yogurt and chopped coriander leaves.",
+            "ingredient": [
+              {
+                "id": "ingredient-62",
+                "name": "Onions"
+              },
+              {
+                "id": "ingredient-63",
+                "name": "Ginger"
+              },
+              {
+                "id": "ingredient-64",
+                "name": "Garlic"
+              },
+              {
+                "id": "ingredient-65",
+                "name": "Butter or Ghee"
+              },
+              {
+                "id": "ingredient-66",
+                "name": "Spinach (or other greens)"
+              },
+              {
+                "id": "ingredient-67",
+                "name": "Cumin Seeds"
+              },
+              {
+                "id": "ingredient-68",
+                "name": "Mustard Seeds"
+              },
+              {
+                "id": "ingredient-69",
+                "name": "Curry Leaves"
+              },
+              {
+                "id": "ingredient-70",
+                "name": "Tomatoes"
+              },
+              {
+                "id": "ingredient-71",
+                "name": "Turmeric"
+              },
+              {
+                "id": "ingredient-72",
+                "name": "Garam Masala"
+              },
+              {
+                "id": "ingredient-73",
+                "name": "Salt"
+              },
+              {
+                "id": "ingredient-74",
+                "name": "Paneer (Indian Cheese)"
+              },
+              {
+                "id": "ingredient-75",
+                "name": "Fresh Cream (or Yogurt)",
+                "desc": "for garnish"
+              },
+              {
+                "id": "ingredient-76",
+                "name": "Coriander Leaves",
+                "desc": "for garnish"
+              },
+              {
+                "id": "ingredient-77",
+                "name": "Aromatic leaves",
+                "desc": "Aromatic leaves commonly used in South Indian cuisine."
+              }
+            ]
+          },
+          {
+            "id": "food-9",
+            "name": "Falafel",
+            "cuisine": {
+              "id": "cuisine-5",
+              "name": "Middle Eastern"
+            },
+            "recipe": "Soak dried chickpeas overnight or for at least 8 hours. Grind chickpeas with chopped parsley, onion, garlic, cumin, coriander, and chickpea flour. Season with salt and pepper. Form the mixture into balls and deep fry or bake until golden brown. Serve falafel in pita bread with hummus, tahini sauce, chopped vegetables, and pickled onions.",
+            "ingredient": [
+              {
+                "id": "ingredient-78",
+                "name": "Chickpeas",
+                "desc": "Dried legumes used in various Middle Eastern and Indian dishes"
+              },
+              {
+                "id": "ingredient-79",
+                "name": "Parsley",
+                "desc": "Fresh herb with a bright, slightly peppery flavor"
+              },
+              {
+                "id": "ingredient-80",
+                "name": "Onion"
+              },
+              {
+                "id": "ingredient-81",
+                "name": "Garlic"
+              },
+              {
+                "id": "ingredient-82",
+                "name": "Cumin",
+                "desc": "Spice with a warm, earthy flavor"
+              },
+              {
+                "id": "ingredient-83",
+                "name": "Coriander",
+                "desc": "Spice with a citrusy, slightly floral aroma"
+              },
+              {
+                "id": "ingredient-84",
+                "name": "Chickpea Flour",
+                "desc": "Flour made from ground chickpeas, used as a binder in falafel"
+              },
+              {
+                "id": "ingredient-85",
+                "name": "Salt"
+              },
+              {
+                "id": "ingredient-86",
+                "name": "Pepper"
+              },
+              {
+                "id": "ingredient-87",
+                "name": "Pita Bread",
+                "desc": "for serving"
+              },
+              {
+                "id": "ingredient-88",
+                "name": "Hummus",
+                "desc": "for serving"
+              },
+              {
+                "id": "ingredient-89",
+                "name": "Tahini Sauce",
+                "desc": "for serving"
+              },
+              {
+                "id": "ingredient-90",
+                "name": "Pickled Onions",
+                "desc": "for serving"
+              }
+            ]
+          },
+          {
+            "id": "food-10",
+            "name": "Beef Rendang",
+            "cuisine": {
+              "id": "cuisine-7",
+              "name": "Indonesian"
+            },
+            "recipe": "Marinate beef cubes in a mixture of coconut milk, lemongrass, ginger, garlic, turmeric, chilies, and spices like coriander, cumin, and cloves. Simmer the marinated beef in the coconut milk mixture until tender and the sauce thickens. Beef rendang is traditionally served with steamed rice and vegetables.",
+            "ingredient": [
+              {
+                "id": "ingredient-91",
+                "name": "Beef Cubes"
+              },
+              {
+                "id": "ingredient-92",
+                "name": "Coconut Milk"
+              },
+              {
+                "id": "ingredient-93",
+                "name": "Lemongrass",
+                "desc": "Fragrant stalk used in Southeast Asian cuisine"
+              },
+              {
+                "id": "ingredient-94",
+                "name": "Ginger"
+              },
+              {
+                "id": "ingredient-95",
+                "name": "Garlic"
+              },
+              {
+                "id": "ingredient-96",
+                "name": "Turmeric"
+              },
+              {
+                "id": "ingredient-97",
+                "name": "Chilies"
+              },
+              {
+                "id": "ingredient-98",
+                "name": "Coriander"
+              },
+              {
+                "id": "ingredient-99",
+                "name": "Cumin"
+              },
+              {
+                "id": "ingredient-100",
+                "name": "Cloves"
+              }
+            ]
+        }
+    ]
+}
+      

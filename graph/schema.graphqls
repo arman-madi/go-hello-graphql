@@ -1,0 +1,25 @@
+# GraphQL schema example
+#
+# https://gqlgen.com/getting-started/
+
+type Food {
+  id: ID!
+  name: String!
+  cuisine: Cuisine
+  recipe: String
+  ingredient: [Ingredient!]!
+}
+
+type Ingredient {
+  id: ID!
+  name: String!
+}
+
+type Cuisine {
+  id: ID!
+  name: String!
+}
+
+type Query {
+  food: [Food!]!
+}
